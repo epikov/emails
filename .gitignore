@@ -1,0 +1,5 @@
+*.csv
+*.zip
+/vendor
+composer.phar
+/.idea
